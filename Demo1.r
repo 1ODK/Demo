@@ -1,1 +1,6 @@
-
+library(reticulate)
+py_install("pandas")
+library(reticulate)
+py_install("pandas")
+library(reticulate)
+py_install("pandas")
